@@ -1,0 +1,1297 @@
+State,Year,Month,Indicator,Data Value,State Name
+AK,2023,January,Number of Deaths,5533,Alaska
+AK,2023,February,Number of Deaths,5520,Alaska
+AK,2023,March,Number of Deaths,5514,Alaska
+AK,2023,April,Number of Deaths,5545,Alaska
+AK,2023,May,Number of Deaths,5550,Alaska
+AK,2023,June,Number of Deaths,5513,Alaska
+AK,2023,July,Number of Deaths,5441,Alaska
+AK,2023,August,Number of Deaths,5426,Alaska
+AK,2023,September,Number of Deaths,5460,Alaska
+AK,2023,October,Number of Deaths,5454,Alaska
+AK,2023,November,Number of Deaths,5498,Alaska
+AK,2023,December,Number of Deaths,5452,Alaska
+AK,2023,January,Number of Drug Overdose Deaths,269,Alaska
+AK,2023,February,Number of Drug Overdose Deaths,275,Alaska
+AK,2023,March,Number of Drug Overdose Deaths,264,Alaska
+AK,2023,April,Number of Drug Overdose Deaths,275,Alaska
+AK,2023,May,Number of Drug Overdose Deaths,288,Alaska
+AK,2023,June,Number of Drug Overdose Deaths,287,Alaska
+AK,2023,July,Number of Drug Overdose Deaths,288,Alaska
+AK,2023,August,Number of Drug Overdose Deaths,297,Alaska
+AK,2023,September,Number of Drug Overdose Deaths,318,Alaska
+AK,2023,October,Number of Drug Overdose Deaths,323,Alaska
+AK,2023,November,Number of Drug Overdose Deaths,336,Alaska
+AK,2023,December,Number of Drug Overdose Deaths,357,Alaska
+AL,2023,January,Number of Deaths,59800,Alabama
+AL,2023,February,Number of Deaths,58621,Alabama
+AL,2023,March,Number of Deaths,58582,Alabama
+AL,2023,April,Number of Deaths,58685,Alabama
+AL,2023,May,Number of Deaths,59003,Alabama
+AL,2023,June,Number of Deaths,58823,Alabama
+AL,2023,July,Number of Deaths,58734,Alabama
+AL,2023,August,Number of Deaths,58751,Alabama
+AL,2023,September,Number of Deaths,58635,Alabama
+AL,2023,October,Number of Deaths,58252,Alabama
+AL,2023,November,Number of Deaths,58062,Alabama
+AL,2023,December,Number of Deaths,58206,Alabama
+AL,2023,January,Number of Drug Overdose Deaths,1495,Alabama
+AL,2023,February,Number of Drug Overdose Deaths,1507,Alabama
+AL,2023,March,Number of Drug Overdose Deaths,1540,Alabama
+AL,2023,April,Number of Drug Overdose Deaths,1539,Alabama
+AL,2023,May,Number of Drug Overdose Deaths,1567,Alabama
+AL,2023,June,Number of Drug Overdose Deaths,1592,Alabama
+AL,2023,July,Number of Drug Overdose Deaths,1603,Alabama
+AL,2023,August,Number of Drug Overdose Deaths,1589,Alabama
+AL,2023,September,Number of Drug Overdose Deaths,1579,Alabama
+AL,2023,October,Number of Drug Overdose Deaths,1570,Alabama
+AL,2023,November,Number of Drug Overdose Deaths,1585,Alabama
+AL,2023,December,Number of Drug Overdose Deaths,1598,Alabama
+AR,2023,January,Number of Deaths,36956,Arkansas
+AR,2023,February,Number of Deaths,36250,Arkansas
+AR,2023,March,Number of Deaths,36127,Arkansas
+AR,2023,April,Number of Deaths,36193,Arkansas
+AR,2023,May,Number of Deaths,36148,Arkansas
+AR,2023,June,Number of Deaths,36019,Arkansas
+AR,2023,July,Number of Deaths,35961,Arkansas
+AR,2023,August,Number of Deaths,35886,Arkansas
+AR,2023,September,Number of Deaths,35862,Arkansas
+AR,2023,October,Number of Deaths,35790,Arkansas
+AR,2023,November,Number of Deaths,35568,Arkansas
+AR,2023,December,Number of Deaths,35354,Arkansas
+AR,2023,January,Number of Drug Overdose Deaths,574,Arkansas
+AR,2023,February,Number of Drug Overdose Deaths,572,Arkansas
+AR,2023,March,Number of Drug Overdose Deaths,550,Arkansas
+AR,2023,April,Number of Drug Overdose Deaths,561,Arkansas
+AR,2023,May,Number of Drug Overdose Deaths,558,Arkansas
+AR,2023,June,Number of Drug Overdose Deaths,555,Arkansas
+AR,2023,July,Number of Drug Overdose Deaths,544,Arkansas
+AR,2023,August,Number of Drug Overdose Deaths,545,Arkansas
+AR,2023,September,Number of Drug Overdose Deaths,552,Arkansas
+AR,2023,October,Number of Drug Overdose Deaths,536,Arkansas
+AR,2023,November,Number of Drug Overdose Deaths,527,Arkansas
+AR,2023,December,Number of Drug Overdose Deaths,517,Arkansas
+AZ,2023,January,Number of Deaths,73084,Arizona
+AZ,2023,February,Number of Deaths,71968,Arizona
+AZ,2023,March,Number of Deaths,71862,Arizona
+AZ,2023,April,Number of Deaths,72242,Arizona
+AZ,2023,May,Number of Deaths,72159,Arizona
+AZ,2023,June,Number of Deaths,71920,Arizona
+AZ,2023,July,Number of Deaths,71773,Arizona
+AZ,2023,August,Number of Deaths,71655,Arizona
+AZ,2023,September,Number of Deaths,71388,Arizona
+AZ,2023,October,Number of Deaths,71366,Arizona
+AZ,2023,November,Number of Deaths,70760,Arizona
+AZ,2023,December,Number of Deaths,70136,Arizona
+AZ,2023,January,Number of Drug Overdose Deaths,2760,Arizona
+AZ,2023,February,Number of Drug Overdose Deaths,2772,Arizona
+AZ,2023,March,Number of Drug Overdose Deaths,2787,Arizona
+AZ,2023,April,Number of Drug Overdose Deaths,2809,Arizona
+AZ,2023,May,Number of Drug Overdose Deaths,2824,Arizona
+AZ,2023,June,Number of Drug Overdose Deaths,2776,Arizona
+AZ,2023,July,Number of Drug Overdose Deaths,2800,Arizona
+AZ,2023,August,Number of Drug Overdose Deaths,2829,Arizona
+AZ,2023,September,Number of Drug Overdose Deaths,2803,Arizona
+AZ,2023,October,Number of Drug Overdose Deaths,2786,Arizona
+AZ,2023,November,Number of Drug Overdose Deaths,2776,Arizona
+AZ,2023,December,Number of Drug Overdose Deaths,2720,Arizona
+CA,2023,January,Number of Deaths,308916,California
+CA,2023,February,Number of Deaths,305072,California
+CA,2023,March,Number of Deaths,306228,California
+CA,2023,April,Number of Deaths,307441,California
+CA,2023,May,Number of Deaths,307196,California
+CA,2023,June,Number of Deaths,306318,California
+CA,2023,July,Number of Deaths,304570,California
+CA,2023,August,Number of Deaths,303075,California
+CA,2023,September,Number of Deaths,301689,California
+CA,2023,October,Number of Deaths,301716,California
+CA,2023,November,Number of Deaths,300378,California
+CA,2023,December,Number of Deaths,297664,California
+CA,2023,January,Number of Drug Overdose Deaths,11896,California
+CA,2023,February,Number of Drug Overdose Deaths,11918,California
+CA,2023,March,Number of Drug Overdose Deaths,12112,California
+CA,2023,April,Number of Drug Overdose Deaths,12197,California
+CA,2023,May,Number of Drug Overdose Deaths,12359,California
+CA,2023,June,Number of Drug Overdose Deaths,12402,California
+CA,2023,July,Number of Drug Overdose Deaths,12554,California
+CA,2023,August,Number of Drug Overdose Deaths,12593,California
+CA,2023,September,Number of Drug Overdose Deaths,12456,California
+CA,2023,October,Number of Drug Overdose Deaths,12450,California
+CA,2023,November,Number of Drug Overdose Deaths,12418,California
+CA,2023,December,Number of Drug Overdose Deaths,12369,California
+CO,2023,January,Number of Deaths,46566,Colorado
+CO,2023,February,Number of Deaths,46210,Colorado
+CO,2023,March,Number of Deaths,46196,Colorado
+CO,2023,April,Number of Deaths,46418,Colorado
+CO,2023,May,Number of Deaths,46330,Colorado
+CO,2023,June,Number of Deaths,46156,Colorado
+CO,2023,July,Number of Deaths,45986,Colorado
+CO,2023,August,Number of Deaths,46122,Colorado
+CO,2023,September,Number of Deaths,46137,Colorado
+CO,2023,October,Number of Deaths,46255,Colorado
+CO,2023,November,Number of Deaths,46058,Colorado
+CO,2023,December,Number of Deaths,45745,Colorado
+CO,2023,January,Number of Drug Overdose Deaths,1835,Colorado
+CO,2023,February,Number of Drug Overdose Deaths,1828,Colorado
+CO,2023,March,Number of Drug Overdose Deaths,1826,Colorado
+CO,2023,April,Number of Drug Overdose Deaths,1850,Colorado
+CO,2023,May,Number of Drug Overdose Deaths,1862,Colorado
+CO,2023,June,Number of Drug Overdose Deaths,1898,Colorado
+CO,2023,July,Number of Drug Overdose Deaths,1916,Colorado
+CO,2023,August,Number of Drug Overdose Deaths,1935,Colorado
+CO,2023,September,Number of Drug Overdose Deaths,1940,Colorado
+CO,2023,October,Number of Drug Overdose Deaths,1945,Colorado
+CO,2023,November,Number of Drug Overdose Deaths,1956,Colorado
+CO,2023,December,Number of Drug Overdose Deaths,1926,Colorado
+CT,2023,January,Number of Deaths,34083,Connecticut
+CT,2023,February,Number of Deaths,33828,Connecticut
+CT,2023,March,Number of Deaths,33799,Connecticut
+CT,2023,April,Number of Deaths,33715,Connecticut
+CT,2023,May,Number of Deaths,33520,Connecticut
+CT,2023,June,Number of Deaths,33408,Connecticut
+CT,2023,July,Number of Deaths,33314,Connecticut
+CT,2023,August,Number of Deaths,33343,Connecticut
+CT,2023,September,Number of Deaths,33409,Connecticut
+CT,2023,October,Number of Deaths,33381,Connecticut
+CT,2023,November,Number of Deaths,33250,Connecticut
+CT,2023,December,Number of Deaths,32901,Connecticut
+CT,2023,January,Number of Drug Overdose Deaths,1476,Connecticut
+CT,2023,February,Number of Drug Overdose Deaths,1493,Connecticut
+CT,2023,March,Number of Drug Overdose Deaths,1473,Connecticut
+CT,2023,April,Number of Drug Overdose Deaths,1465,Connecticut
+CT,2023,May,Number of Drug Overdose Deaths,1469,Connecticut
+CT,2023,June,Number of Drug Overdose Deaths,1462,Connecticut
+CT,2023,July,Number of Drug Overdose Deaths,1458,Connecticut
+CT,2023,August,Number of Drug Overdose Deaths,1453,Connecticut
+CT,2023,September,Number of Drug Overdose Deaths,1433,Connecticut
+CT,2023,October,Number of Drug Overdose Deaths,1379,Connecticut
+CT,2023,November,Number of Drug Overdose Deaths,1352,Connecticut
+CT,2023,December,Number of Drug Overdose Deaths,1330,Connecticut
+DC,2023,January,Number of Deaths,6603,District of Columbia
+DC,2023,February,Number of Deaths,6558,District of Columbia
+DC,2023,March,Number of Deaths,6569,District of Columbia
+DC,2023,April,Number of Deaths,6567,District of Columbia
+DC,2023,May,Number of Deaths,6622,District of Columbia
+DC,2023,June,Number of Deaths,6593,District of Columbia
+DC,2023,July,Number of Deaths,6582,District of Columbia
+DC,2023,August,Number of Deaths,6623,District of Columbia
+DC,2023,September,Number of Deaths,6617,District of Columbia
+DC,2023,October,Number of Deaths,6627,District of Columbia
+DC,2023,November,Number of Deaths,6613,District of Columbia
+DC,2023,December,Number of Deaths,6563,District of Columbia
+DC,2023,January,Number of Drug Overdose Deaths,574,District of Columbia
+DC,2023,February,Number of Drug Overdose Deaths,573,District of Columbia
+DC,2023,March,Number of Drug Overdose Deaths,596,District of Columbia
+DC,2023,April,Number of Drug Overdose Deaths,603,District of Columbia
+DC,2023,May,Number of Drug Overdose Deaths,604,District of Columbia
+DC,2023,June,Number of Drug Overdose Deaths,612,District of Columbia
+DC,2023,July,Number of Drug Overdose Deaths,626,District of Columbia
+DC,2023,August,Number of Drug Overdose Deaths,638,District of Columbia
+DC,2023,September,Number of Drug Overdose Deaths,645,District of Columbia
+DC,2023,October,Number of Drug Overdose Deaths,635,District of Columbia
+DC,2023,November,Number of Drug Overdose Deaths,634,District of Columbia
+DC,2023,December,Number of Drug Overdose Deaths,635,District of Columbia
+DE,2023,January,Number of Deaths,11058,Delaware
+DE,2023,February,Number of Deaths,10946,Delaware
+DE,2023,March,Number of Deaths,10979,Delaware
+DE,2023,April,Number of Deaths,11024,Delaware
+DE,2023,May,Number of Deaths,10961,Delaware
+DE,2023,June,Number of Deaths,10983,Delaware
+DE,2023,July,Number of Deaths,10933,Delaware
+DE,2023,August,Number of Deaths,10899,Delaware
+DE,2023,September,Number of Deaths,10898,Delaware
+DE,2023,October,Number of Deaths,10830,Delaware
+DE,2023,November,Number of Deaths,10780,Delaware
+DE,2023,December,Number of Deaths,10716,Delaware
+DE,2023,January,Number of Drug Overdose Deaths,549,Delaware
+DE,2023,February,Number of Drug Overdose Deaths,556,Delaware
+DE,2023,March,Number of Drug Overdose Deaths,558,Delaware
+DE,2023,April,Number of Drug Overdose Deaths,564,Delaware
+DE,2023,May,Number of Drug Overdose Deaths,545,Delaware
+DE,2023,June,Number of Drug Overdose Deaths,536,Delaware
+DE,2023,July,Number of Drug Overdose Deaths,554,Delaware
+DE,2023,August,Number of Drug Overdose Deaths,551,Delaware
+DE,2023,September,Number of Drug Overdose Deaths,546,Delaware
+DE,2023,October,Number of Drug Overdose Deaths,546,Delaware
+DE,2023,November,Number of Drug Overdose Deaths,542,Delaware
+DE,2023,December,Number of Drug Overdose Deaths,527,Delaware
+FL,2023,January,Number of Deaths,239061,Florida
+FL,2023,February,Number of Deaths,236049,Florida
+FL,2023,March,Number of Deaths,235859,Florida
+FL,2023,April,Number of Deaths,236180,Florida
+FL,2023,May,Number of Deaths,235987,Florida
+FL,2023,June,Number of Deaths,235177,Florida
+FL,2023,July,Number of Deaths,234668,Florida
+FL,2023,August,Number of Deaths,233930,Florida
+FL,2023,September,Number of Deaths,233574,Florida
+FL,2023,October,Number of Deaths,232924,Florida
+FL,2023,November,Number of Deaths,232474,Florida
+FL,2023,December,Number of Deaths,231934,Florida
+FL,2023,January,Number of Drug Overdose Deaths,7908,Florida
+FL,2023,February,Number of Drug Overdose Deaths,7879,Florida
+FL,2023,March,Number of Drug Overdose Deaths,7753,Florida
+FL,2023,April,Number of Drug Overdose Deaths,7743,Florida
+FL,2023,May,Number of Drug Overdose Deaths,7685,Florida
+FL,2023,June,Number of Drug Overdose Deaths,7650,Florida
+FL,2023,July,Number of Drug Overdose Deaths,7619,Florida
+FL,2023,August,Number of Drug Overdose Deaths,7613,Florida
+FL,2023,September,Number of Drug Overdose Deaths,7558,Florida
+FL,2023,October,Number of Drug Overdose Deaths,7473,Florida
+FL,2023,November,Number of Drug Overdose Deaths,7386,Florida
+FL,2023,December,Number of Drug Overdose Deaths,7330,Florida
+GA,2023,January,Number of Deaths,100314,Georgia
+GA,2023,February,Number of Deaths,98735,Georgia
+GA,2023,March,Number of Deaths,98641,Georgia
+GA,2023,April,Number of Deaths,98722,Georgia
+GA,2023,May,Number of Deaths,98781,Georgia
+GA,2023,June,Number of Deaths,98628,Georgia
+GA,2023,July,Number of Deaths,98072,Georgia
+GA,2023,August,Number of Deaths,98090,Georgia
+GA,2023,September,Number of Deaths,97735,Georgia
+GA,2023,October,Number of Deaths,97223,Georgia
+GA,2023,November,Number of Deaths,96892,Georgia
+GA,2023,December,Number of Deaths,96883,Georgia
+GA,2023,January,Number of Drug Overdose Deaths,2609,Georgia
+GA,2023,February,Number of Drug Overdose Deaths,2604,Georgia
+GA,2023,March,Number of Drug Overdose Deaths,2645,Georgia
+GA,2023,April,Number of Drug Overdose Deaths,2628,Georgia
+GA,2023,May,Number of Drug Overdose Deaths,2648,Georgia
+GA,2023,June,Number of Drug Overdose Deaths,2625,Georgia
+GA,2023,July,Number of Drug Overdose Deaths,2614,Georgia
+GA,2023,August,Number of Drug Overdose Deaths,2611,Georgia
+GA,2023,September,Number of Drug Overdose Deaths,2580,Georgia
+GA,2023,October,Number of Drug Overdose Deaths,2559,Georgia
+GA,2023,November,Number of Drug Overdose Deaths,2545,Georgia
+GA,2023,December,Number of Drug Overdose Deaths,2520,Georgia
+HI,2023,January,Number of Deaths,13163,Hawaii
+HI,2023,February,Number of Deaths,13027,Hawaii
+HI,2023,March,Number of Deaths,13197,Hawaii
+HI,2023,April,Number of Deaths,13198,Hawaii
+HI,2023,May,Number of Deaths,13096,Hawaii
+HI,2023,June,Number of Deaths,13041,Hawaii
+HI,2023,July,Number of Deaths,13026,Hawaii
+HI,2023,August,Number of Deaths,13100,Hawaii
+HI,2023,September,Number of Deaths,12999,Hawaii
+HI,2023,October,Number of Deaths,12910,Hawaii
+HI,2023,November,Number of Deaths,12822,Hawaii
+HI,2023,December,Number of Deaths,12744,Hawaii
+HI,2023,January,Number of Drug Overdose Deaths,275,Hawaii
+HI,2023,February,Number of Drug Overdose Deaths,269,Hawaii
+HI,2023,March,Number of Drug Overdose Deaths,271,Hawaii
+HI,2023,April,Number of Drug Overdose Deaths,281,Hawaii
+HI,2023,May,Number of Drug Overdose Deaths,292,Hawaii
+HI,2023,June,Number of Drug Overdose Deaths,312,Hawaii
+HI,2023,July,Number of Drug Overdose Deaths,317,Hawaii
+HI,2023,August,Number of Drug Overdose Deaths,335,Hawaii
+HI,2023,September,Number of Drug Overdose Deaths,326,Hawaii
+HI,2023,October,Number of Drug Overdose Deaths,320,Hawaii
+HI,2023,November,Number of Drug Overdose Deaths,321,Hawaii
+HI,2023,December,Number of Drug Overdose Deaths,321,Hawaii
+IA,2023,January,Number of Deaths,33165,Iowa
+IA,2023,February,Number of Deaths,32837,Iowa
+IA,2023,March,Number of Deaths,32930,Iowa
+IA,2023,April,Number of Deaths,33001,Iowa
+IA,2023,May,Number of Deaths,32998,Iowa
+IA,2023,June,Number of Deaths,32885,Iowa
+IA,2023,July,Number of Deaths,32771,Iowa
+IA,2023,August,Number of Deaths,32625,Iowa
+IA,2023,September,Number of Deaths,32483,Iowa
+IA,2023,October,Number of Deaths,32426,Iowa
+IA,2023,November,Number of Deaths,32505,Iowa
+IA,2023,December,Number of Deaths,32332,Iowa
+IA,2023,January,Number of Drug Overdose Deaths,468,Iowa
+IA,2023,February,Number of Drug Overdose Deaths,456,Iowa
+IA,2023,March,Number of Drug Overdose Deaths,446,Iowa
+IA,2023,April,Number of Drug Overdose Deaths,450,Iowa
+IA,2023,May,Number of Drug Overdose Deaths,456,Iowa
+IA,2023,June,Number of Drug Overdose Deaths,456,Iowa
+IA,2023,July,Number of Drug Overdose Deaths,469,Iowa
+IA,2023,August,Number of Drug Overdose Deaths,461,Iowa
+IA,2023,September,Number of Drug Overdose Deaths,474,Iowa
+IA,2023,October,Number of Drug Overdose Deaths,445,Iowa
+IA,2023,November,Number of Drug Overdose Deaths,442,Iowa
+IA,2023,December,Number of Drug Overdose Deaths,447,Iowa
+ID,2023,January,Number of Deaths,16814,Idaho
+ID,2023,February,Number of Deaths,16588,Idaho
+ID,2023,March,Number of Deaths,16619,Idaho
+ID,2023,April,Number of Deaths,16702,Idaho
+ID,2023,May,Number of Deaths,16846,Idaho
+ID,2023,June,Number of Deaths,16742,Idaho
+ID,2023,July,Number of Deaths,16626,Idaho
+ID,2023,August,Number of Deaths,16594,Idaho
+ID,2023,September,Number of Deaths,16601,Idaho
+ID,2023,October,Number of Deaths,16624,Idaho
+ID,2023,November,Number of Deaths,16561,Idaho
+ID,2023,December,Number of Deaths,16494,Idaho
+ID,2023,January,Number of Drug Overdose Deaths,349,Idaho
+ID,2023,February,Number of Drug Overdose Deaths,369,Idaho
+ID,2023,March,Number of Drug Overdose Deaths,366,Idaho
+ID,2023,April,Number of Drug Overdose Deaths,373,Idaho
+ID,2023,May,Number of Drug Overdose Deaths,384,Idaho
+ID,2023,June,Number of Drug Overdose Deaths,381,Idaho
+ID,2023,July,Number of Drug Overdose Deaths,379,Idaho
+ID,2023,August,Number of Drug Overdose Deaths,369,Idaho
+ID,2023,September,Number of Drug Overdose Deaths,370,Idaho
+ID,2023,October,Number of Drug Overdose Deaths,375,Idaho
+ID,2023,November,Number of Drug Overdose Deaths,385,Idaho
+ID,2023,December,Number of Drug Overdose Deaths,367,Idaho
+IL,2023,January,Number of Deaths,115137,Illinois
+IL,2023,February,Number of Deaths,113807,Illinois
+IL,2023,March,Number of Deaths,113768,Illinois
+IL,2023,April,Number of Deaths,113861,Illinois
+IL,2023,May,Number of Deaths,113797,Illinois
+IL,2023,June,Number of Deaths,113421,Illinois
+IL,2023,July,Number of Deaths,112867,Illinois
+IL,2023,August,Number of Deaths,112339,Illinois
+IL,2023,September,Number of Deaths,112134,Illinois
+IL,2023,October,Number of Deaths,111386,Illinois
+IL,2023,November,Number of Deaths,110985,Illinois
+IL,2023,December,Number of Deaths,110422,Illinois
+IL,2023,January,Number of Drug Overdose Deaths,3801,Illinois
+IL,2023,February,Number of Drug Overdose Deaths,3792,Illinois
+IL,2023,March,Number of Drug Overdose Deaths,3806,Illinois
+IL,2023,April,Number of Drug Overdose Deaths,3809,Illinois
+IL,2023,May,Number of Drug Overdose Deaths,3822,Illinois
+IL,2023,June,Number of Drug Overdose Deaths,3833,Illinois
+IL,2023,July,Number of Drug Overdose Deaths,3789,Illinois
+IL,2023,August,Number of Drug Overdose Deaths,3775,Illinois
+IL,2023,September,Number of Drug Overdose Deaths,3741,Illinois
+IL,2023,October,Number of Drug Overdose Deaths,3718,Illinois
+IL,2023,November,Number of Drug Overdose Deaths,3624,Illinois
+IL,2023,December,Number of Drug Overdose Deaths,3537,Illinois
+IN,2023,January,Number of Deaths,73753,Indiana
+IN,2023,February,Number of Deaths,72491,Indiana
+IN,2023,March,Number of Deaths,72431,Indiana
+IN,2023,April,Number of Deaths,72614,Indiana
+IN,2023,May,Number of Deaths,72730,Indiana
+IN,2023,June,Number of Deaths,72622,Indiana
+IN,2023,July,Number of Deaths,72125,Indiana
+IN,2023,August,Number of Deaths,71709,Indiana
+IN,2023,September,Number of Deaths,71500,Indiana
+IN,2023,October,Number of Deaths,71120,Indiana
+IN,2023,November,Number of Deaths,70988,Indiana
+IN,2023,December,Number of Deaths,70397,Indiana
+IN,2023,January,Number of Drug Overdose Deaths,2630,Indiana
+IN,2023,February,Number of Drug Overdose Deaths,2556,Indiana
+IN,2023,March,Number of Drug Overdose Deaths,2508,Indiana
+IN,2023,April,Number of Drug Overdose Deaths,2508,Indiana
+IN,2023,May,Number of Drug Overdose Deaths,2496,Indiana
+IN,2023,June,Number of Drug Overdose Deaths,2457,Indiana
+IN,2023,July,Number of Drug Overdose Deaths,2404,Indiana
+IN,2023,August,Number of Drug Overdose Deaths,2377,Indiana
+IN,2023,September,Number of Drug Overdose Deaths,2340,Indiana
+IN,2023,October,Number of Drug Overdose Deaths,2271,Indiana
+IN,2023,November,Number of Drug Overdose Deaths,2245,Indiana
+IN,2023,December,Number of Drug Overdose Deaths,2193,Indiana
+KS,2023,January,Number of Deaths,29609,Kansas
+KS,2023,February,Number of Deaths,29190,Kansas
+KS,2023,March,Number of Deaths,29215,Kansas
+KS,2023,April,Number of Deaths,29431,Kansas
+KS,2023,May,Number of Deaths,29360,Kansas
+KS,2023,June,Number of Deaths,29323,Kansas
+KS,2023,July,Number of Deaths,29137,Kansas
+KS,2023,August,Number of Deaths,28963,Kansas
+KS,2023,September,Number of Deaths,28938,Kansas
+KS,2023,October,Number of Deaths,28857,Kansas
+KS,2023,November,Number of Deaths,28715,Kansas
+KS,2023,December,Number of Deaths,28420,Kansas
+KS,2023,January,Number of Drug Overdose Deaths,758,Kansas
+KS,2023,February,Number of Drug Overdose Deaths,751,Kansas
+KS,2023,March,Number of Drug Overdose Deaths,739,Kansas
+KS,2023,April,Number of Drug Overdose Deaths,722,Kansas
+KS,2023,May,Number of Drug Overdose Deaths,722,Kansas
+KS,2023,June,Number of Drug Overdose Deaths,733,Kansas
+KS,2023,July,Number of Drug Overdose Deaths,721,Kansas
+KS,2023,August,Number of Drug Overdose Deaths,702,Kansas
+KS,2023,September,Number of Drug Overdose Deaths,691,Kansas
+KS,2023,October,Number of Drug Overdose Deaths,688,Kansas
+KS,2023,November,Number of Drug Overdose Deaths,663,Kansas
+KS,2023,December,Number of Drug Overdose Deaths,641,Kansas
+KY,2023,January,Number of Deaths,55912,Kentucky
+KY,2023,February,Number of Deaths,55049,Kentucky
+KY,2023,March,Number of Deaths,54879,Kentucky
+KY,2023,April,Number of Deaths,54796,Kentucky
+KY,2023,May,Number of Deaths,54780,Kentucky
+KY,2023,June,Number of Deaths,54549,Kentucky
+KY,2023,July,Number of Deaths,54319,Kentucky
+KY,2023,August,Number of Deaths,54011,Kentucky
+KY,2023,September,Number of Deaths,53892,Kentucky
+KY,2023,October,Number of Deaths,53732,Kentucky
+KY,2023,November,Number of Deaths,53318,Kentucky
+KY,2023,December,Number of Deaths,53134,Kentucky
+KY,2023,January,Number of Drug Overdose Deaths,2304,Kentucky
+KY,2023,February,Number of Drug Overdose Deaths,2307,Kentucky
+KY,2023,March,Number of Drug Overdose Deaths,2322,Kentucky
+KY,2023,April,Number of Drug Overdose Deaths,2341,Kentucky
+KY,2023,May,Number of Drug Overdose Deaths,2355,Kentucky
+KY,2023,June,Number of Drug Overdose Deaths,2319,Kentucky
+KY,2023,July,Number of Drug Overdose Deaths,2277,Kentucky
+KY,2023,August,Number of Drug Overdose Deaths,2260,Kentucky
+KY,2023,September,Number of Drug Overdose Deaths,2261,Kentucky
+KY,2023,October,Number of Drug Overdose Deaths,2204,Kentucky
+KY,2023,November,Number of Drug Overdose Deaths,2148,Kentucky
+KY,2023,December,Number of Drug Overdose Deaths,2131,Kentucky
+LA,2023,January,Number of Deaths,51416,Louisiana
+LA,2023,February,Number of Deaths,50666,Louisiana
+LA,2023,March,Number of Deaths,50483,Louisiana
+LA,2023,April,Number of Deaths,50464,Louisiana
+LA,2023,May,Number of Deaths,50396,Louisiana
+LA,2023,June,Number of Deaths,50291,Louisiana
+LA,2023,July,Number of Deaths,49914,Louisiana
+LA,2023,August,Number of Deaths,49777,Louisiana
+LA,2023,September,Number of Deaths,49796,Louisiana
+LA,2023,October,Number of Deaths,49767,Louisiana
+LA,2023,November,Number of Deaths,49533,Louisiana
+LA,2023,December,Number of Deaths,49547,Louisiana
+LA,2023,January,Number of Drug Overdose Deaths,2389,Louisiana
+LA,2023,February,Number of Drug Overdose Deaths,2368,Louisiana
+LA,2023,March,Number of Drug Overdose Deaths,2336,Louisiana
+LA,2023,April,Number of Drug Overdose Deaths,2319,Louisiana
+LA,2023,May,Number of Drug Overdose Deaths,2310,Louisiana
+LA,2023,June,Number of Drug Overdose Deaths,2305,Louisiana
+LA,2023,July,Number of Drug Overdose Deaths,2310,Louisiana
+LA,2023,August,Number of Drug Overdose Deaths,2337,Louisiana
+LA,2023,September,Number of Drug Overdose Deaths,2333,Louisiana
+LA,2023,October,Number of Drug Overdose Deaths,2298,Louisiana
+LA,2023,November,Number of Drug Overdose Deaths,2283,Louisiana
+LA,2023,December,Number of Drug Overdose Deaths,2255,Louisiana
+MA,2023,January,Number of Deaths,62966,Massachusetts
+MA,2023,February,Number of Deaths,62676,Massachusetts
+MA,2023,March,Number of Deaths,62809,Massachusetts
+MA,2023,April,Number of Deaths,62934,Massachusetts
+MA,2023,May,Number of Deaths,62644,Massachusetts
+MA,2023,June,Number of Deaths,62580,Massachusetts
+MA,2023,July,Number of Deaths,62367,Massachusetts
+MA,2023,August,Number of Deaths,62249,Massachusetts
+MA,2023,September,Number of Deaths,62249,Massachusetts
+MA,2023,October,Number of Deaths,62029,Massachusetts
+MA,2023,November,Number of Deaths,62095,Massachusetts
+MA,2023,December,Number of Deaths,61944,Massachusetts
+MA,2023,January,Number of Drug Overdose Deaths,2673,Massachusetts
+MA,2023,February,Number of Drug Overdose Deaths,2641,Massachusetts
+MA,2023,March,Number of Drug Overdose Deaths,2625,Massachusetts
+MA,2023,April,Number of Drug Overdose Deaths,2584,Massachusetts
+MA,2023,May,Number of Drug Overdose Deaths,2613,Massachusetts
+MA,2023,June,Number of Drug Overdose Deaths,2600,Massachusetts
+MA,2023,July,Number of Drug Overdose Deaths,2552,Massachusetts
+MA,2023,August,Number of Drug Overdose Deaths,2543,Massachusetts
+MA,2023,September,Number of Drug Overdose Deaths,2525,Massachusetts
+MA,2023,October,Number of Drug Overdose Deaths,2444,Massachusetts
+MA,2023,November,Number of Drug Overdose Deaths,2408,Massachusetts
+MA,2023,December,Number of Drug Overdose Deaths,2380,Massachusetts
+MD,2023,January,Number of Deaths,53871,Maryland
+MD,2023,February,Number of Deaths,53550,Maryland
+MD,2023,March,Number of Deaths,53486,Maryland
+MD,2023,April,Number of Deaths,53402,Maryland
+MD,2023,May,Number of Deaths,53336,Maryland
+MD,2023,June,Number of Deaths,53098,Maryland
+MD,2023,July,Number of Deaths,52931,Maryland
+MD,2023,August,Number of Deaths,52918,Maryland
+MD,2023,September,Number of Deaths,52885,Maryland
+MD,2023,October,Number of Deaths,52867,Maryland
+MD,2023,November,Number of Deaths,52573,Maryland
+MD,2023,December,Number of Deaths,52521,Maryland
+MD,2023,January,Number of Drug Overdose Deaths,2504,Maryland
+MD,2023,February,Number of Drug Overdose Deaths,2486,Maryland
+MD,2023,March,Number of Drug Overdose Deaths,2463,Maryland
+MD,2023,April,Number of Drug Overdose Deaths,2488,Maryland
+MD,2023,May,Number of Drug Overdose Deaths,2516,Maryland
+MD,2023,June,Number of Drug Overdose Deaths,2537,Maryland
+MD,2023,July,Number of Drug Overdose Deaths,2539,Maryland
+MD,2023,August,Number of Drug Overdose Deaths,2548,Maryland
+MD,2023,September,Number of Drug Overdose Deaths,2537,Maryland
+MD,2023,October,Number of Drug Overdose Deaths,2562,Maryland
+MD,2023,November,Number of Drug Overdose Deaths,2521,Maryland
+MD,2023,December,Number of Drug Overdose Deaths,2493,Maryland
+ME,2023,January,Number of Deaths,16966,Maine
+ME,2023,February,Number of Deaths,16919,Maine
+ME,2023,March,Number of Deaths,16922,Maine
+ME,2023,April,Number of Deaths,16961,Maine
+ME,2023,May,Number of Deaths,16942,Maine
+ME,2023,June,Number of Deaths,16839,Maine
+ME,2023,July,Number of Deaths,16848,Maine
+ME,2023,August,Number of Deaths,16882,Maine
+ME,2023,September,Number of Deaths,16765,Maine
+ME,2023,October,Number of Deaths,16685,Maine
+ME,2023,November,Number of Deaths,16686,Maine
+ME,2023,December,Number of Deaths,16627,Maine
+ME,2023,January,Number of Drug Overdose Deaths,718,Maine
+ME,2023,February,Number of Drug Overdose Deaths,718,Maine
+ME,2023,March,Number of Drug Overdose Deaths,693,Maine
+ME,2023,April,Number of Drug Overdose Deaths,697,Maine
+ME,2023,May,Number of Drug Overdose Deaths,697,Maine
+ME,2023,June,Number of Drug Overdose Deaths,689,Maine
+ME,2023,July,Number of Drug Overdose Deaths,672,Maine
+ME,2023,August,Number of Drug Overdose Deaths,647,Maine
+ME,2023,September,Number of Drug Overdose Deaths,646,Maine
+ME,2023,October,Number of Drug Overdose Deaths,637,Maine
+ME,2023,November,Number of Drug Overdose Deaths,620,Maine
+ME,2023,December,Number of Drug Overdose Deaths,592,Maine
+MI,2023,January,Number of Deaths,106188,Michigan
+MI,2023,February,Number of Deaths,105165,Michigan
+MI,2023,March,Number of Deaths,105217,Michigan
+MI,2023,April,Number of Deaths,105335,Michigan
+MI,2023,May,Number of Deaths,105094,Michigan
+MI,2023,June,Number of Deaths,104747,Michigan
+MI,2023,July,Number of Deaths,104379,Michigan
+MI,2023,August,Number of Deaths,104048,Michigan
+MI,2023,September,Number of Deaths,103689,Michigan
+MI,2023,October,Number of Deaths,103259,Michigan
+MI,2023,November,Number of Deaths,102651,Michigan
+MI,2023,December,Number of Deaths,101952,Michigan
+MI,2023,January,Number of Drug Overdose Deaths,2988,Michigan
+MI,2023,February,Number of Drug Overdose Deaths,2991,Michigan
+MI,2023,March,Number of Drug Overdose Deaths,3034,Michigan
+MI,2023,April,Number of Drug Overdose Deaths,3066,Michigan
+MI,2023,May,Number of Drug Overdose Deaths,3076,Michigan
+MI,2023,June,Number of Drug Overdose Deaths,3057,Michigan
+MI,2023,July,Number of Drug Overdose Deaths,3047,Michigan
+MI,2023,August,Number of Drug Overdose Deaths,3047,Michigan
+MI,2023,September,Number of Drug Overdose Deaths,3043,Michigan
+MI,2023,October,Number of Drug Overdose Deaths,3008,Michigan
+MI,2023,November,Number of Drug Overdose Deaths,2926,Michigan
+MI,2023,December,Number of Drug Overdose Deaths,2885,Michigan
+MN,2023,January,Number of Deaths,50206,Minnesota
+MN,2023,February,Number of Deaths,49840,Minnesota
+MN,2023,March,Number of Deaths,49955,Minnesota
+MN,2023,April,Number of Deaths,50040,Minnesota
+MN,2023,May,Number of Deaths,49937,Minnesota
+MN,2023,June,Number of Deaths,49949,Minnesota
+MN,2023,July,Number of Deaths,49855,Minnesota
+MN,2023,August,Number of Deaths,49706,Minnesota
+MN,2023,September,Number of Deaths,49555,Minnesota
+MN,2023,October,Number of Deaths,49520,Minnesota
+MN,2023,November,Number of Deaths,49428,Minnesota
+MN,2023,December,Number of Deaths,49177,Minnesota
+MN,2023,January,Number of Drug Overdose Deaths,1386,Minnesota
+MN,2023,February,Number of Drug Overdose Deaths,1388,Minnesota
+MN,2023,March,Number of Drug Overdose Deaths,1388,Minnesota
+MN,2023,April,Number of Drug Overdose Deaths,1413,Minnesota
+MN,2023,May,Number of Drug Overdose Deaths,1406,Minnesota
+MN,2023,June,Number of Drug Overdose Deaths,1417,Minnesota
+MN,2023,July,Number of Drug Overdose Deaths,1413,Minnesota
+MN,2023,August,Number of Drug Overdose Deaths,1401,Minnesota
+MN,2023,September,Number of Drug Overdose Deaths,1405,Minnesota
+MN,2023,October,Number of Drug Overdose Deaths,1380,Minnesota
+MN,2023,November,Number of Drug Overdose Deaths,1362,Minnesota
+MN,2023,December,Number of Drug Overdose Deaths,1341,Minnesota
+MO,2023,January,Number of Deaths,71927,Missouri
+MO,2023,February,Number of Deaths,70877,Missouri
+MO,2023,March,Number of Deaths,71030,Missouri
+MO,2023,April,Number of Deaths,71090,Missouri
+MO,2023,May,Number of Deaths,70969,Missouri
+MO,2023,June,Number of Deaths,70783,Missouri
+MO,2023,July,Number of Deaths,70304,Missouri
+MO,2023,August,Number of Deaths,70115,Missouri
+MO,2023,September,Number of Deaths,69996,Missouri
+MO,2023,October,Number of Deaths,69967,Missouri
+MO,2023,November,Number of Deaths,69587,Missouri
+MO,2023,December,Number of Deaths,68840,Missouri
+MO,2023,January,Number of Drug Overdose Deaths,2203,Missouri
+MO,2023,February,Number of Drug Overdose Deaths,2215,Missouri
+MO,2023,March,Number of Drug Overdose Deaths,2250,Missouri
+MO,2023,April,Number of Drug Overdose Deaths,2240,Missouri
+MO,2023,May,Number of Drug Overdose Deaths,2221,Missouri
+MO,2023,June,Number of Drug Overdose Deaths,2192,Missouri
+MO,2023,July,Number of Drug Overdose Deaths,2151,Missouri
+MO,2023,August,Number of Drug Overdose Deaths,2146,Missouri
+MO,2023,September,Number of Drug Overdose Deaths,2110,Missouri
+MO,2023,October,Number of Drug Overdose Deaths,2101,Missouri
+MO,2023,November,Number of Drug Overdose Deaths,2079,Missouri
+MO,2023,December,Number of Drug Overdose Deaths,2014,Missouri
+MS,2023,January,Number of Deaths,35770,Mississippi
+MS,2023,February,Number of Deaths,35030,Mississippi
+MS,2023,March,Number of Deaths,34855,Mississippi
+MS,2023,April,Number of Deaths,34719,Mississippi
+MS,2023,May,Number of Deaths,34746,Mississippi
+MS,2023,June,Number of Deaths,34706,Mississippi
+MS,2023,July,Number of Deaths,34354,Mississippi
+MS,2023,August,Number of Deaths,34302,Mississippi
+MS,2023,September,Number of Deaths,34297,Mississippi
+MS,2023,October,Number of Deaths,34138,Mississippi
+MS,2023,November,Number of Deaths,34111,Mississippi
+MS,2023,December,Number of Deaths,34025,Mississippi
+MS,2023,January,Number of Drug Overdose Deaths,700,Mississippi
+MS,2023,February,Number of Drug Overdose Deaths,698,Mississippi
+MS,2023,March,Number of Drug Overdose Deaths,680,Mississippi
+MS,2023,April,Number of Drug Overdose Deaths,676,Mississippi
+MS,2023,May,Number of Drug Overdose Deaths,651,Mississippi
+MS,2023,June,Number of Drug Overdose Deaths,650,Mississippi
+MS,2023,July,Number of Drug Overdose Deaths,648,Mississippi
+MS,2023,August,Number of Drug Overdose Deaths,651,Mississippi
+MS,2023,September,Number of Drug Overdose Deaths,635,Mississippi
+MS,2023,October,Number of Drug Overdose Deaths,619,Mississippi
+MS,2023,November,Number of Drug Overdose Deaths,643,Mississippi
+MS,2023,December,Number of Drug Overdose Deaths,633,Mississippi
+MT,2023,January,Number of Deaths,11571,Montana
+MT,2023,February,Number of Deaths,11396,Montana
+MT,2023,March,Number of Deaths,11408,Montana
+MT,2023,April,Number of Deaths,11515,Montana
+MT,2023,May,Number of Deaths,11458,Montana
+MT,2023,June,Number of Deaths,11516,Montana
+MT,2023,July,Number of Deaths,11420,Montana
+MT,2023,August,Number of Deaths,11321,Montana
+MT,2023,September,Number of Deaths,11249,Montana
+MT,2023,October,Number of Deaths,11287,Montana
+MT,2023,November,Number of Deaths,11282,Montana
+MT,2023,December,Number of Deaths,11238,Montana
+MT,2023,January,Number of Drug Overdose Deaths,191,Montana
+MT,2023,February,Number of Drug Overdose Deaths,191,Montana
+MT,2023,March,Number of Drug Overdose Deaths,183,Montana
+MT,2023,April,Number of Drug Overdose Deaths,179,Montana
+MT,2023,May,Number of Drug Overdose Deaths,175,Montana
+MT,2023,June,Number of Drug Overdose Deaths,186,Montana
+MT,2023,July,Number of Drug Overdose Deaths,183,Montana
+MT,2023,August,Number of Drug Overdose Deaths,178,Montana
+MT,2023,September,Number of Drug Overdose Deaths,175,Montana
+MT,2023,October,Number of Drug Overdose Deaths,181,Montana
+MT,2023,November,Number of Drug Overdose Deaths,182,Montana
+MT,2023,December,Number of Drug Overdose Deaths,184,Montana
+NC,2023,January,Number of Deaths,111521,North Carolina
+NC,2023,February,Number of Deaths,109495,North Carolina
+NC,2023,March,Number of Deaths,109648,North Carolina
+NC,2023,April,Number of Deaths,109726,North Carolina
+NC,2023,May,Number of Deaths,109714,North Carolina
+NC,2023,June,Number of Deaths,109479,North Carolina
+NC,2023,July,Number of Deaths,109083,North Carolina
+NC,2023,August,Number of Deaths,108835,North Carolina
+NC,2023,September,Number of Deaths,108676,North Carolina
+NC,2023,October,Number of Deaths,108402,North Carolina
+NC,2023,November,Number of Deaths,108232,North Carolina
+NC,2023,December,Number of Deaths,108376,North Carolina
+NC,2023,January,Number of Drug Overdose Deaths,4286,North Carolina
+NC,2023,February,Number of Drug Overdose Deaths,4304,North Carolina
+NC,2023,March,Number of Drug Overdose Deaths,4329,North Carolina
+NC,2023,April,Number of Drug Overdose Deaths,4317,North Carolina
+NC,2023,May,Number of Drug Overdose Deaths,4373,North Carolina
+NC,2023,June,Number of Drug Overdose Deaths,4324,North Carolina
+NC,2023,July,Number of Drug Overdose Deaths,4281,North Carolina
+NC,2023,August,Number of Drug Overdose Deaths,4176,North Carolina
+NC,2023,September,Number of Drug Overdose Deaths,4037,North Carolina
+NC,2023,October,Number of Drug Overdose Deaths,3852,North Carolina
+NC,2023,November,Number of Drug Overdose Deaths,3675,North Carolina
+NC,2023,December,Number of Drug Overdose Deaths,3489,North Carolina
+ND,2023,January,Number of Deaths,7681,North Dakota
+ND,2023,February,Number of Deaths,7532,North Dakota
+ND,2023,March,Number of Deaths,7531,North Dakota
+ND,2023,April,Number of Deaths,7616,North Dakota
+ND,2023,May,Number of Deaths,7626,North Dakota
+ND,2023,June,Number of Deaths,7614,North Dakota
+ND,2023,July,Number of Deaths,7652,North Dakota
+ND,2023,August,Number of Deaths,7604,North Dakota
+ND,2023,September,Number of Deaths,7552,North Dakota
+ND,2023,October,Number of Deaths,7517,North Dakota
+ND,2023,November,Number of Deaths,7529,North Dakota
+ND,2023,December,Number of Deaths,7480,North Dakota
+ND,2023,January,Number of Drug Overdose Deaths,147,North Dakota
+ND,2023,February,Number of Drug Overdose Deaths,148,North Dakota
+ND,2023,March,Number of Drug Overdose Deaths,141,North Dakota
+ND,2023,April,Number of Drug Overdose Deaths,142,North Dakota
+ND,2023,May,Number of Drug Overdose Deaths,144,North Dakota
+ND,2023,June,Number of Drug Overdose Deaths,145,North Dakota
+ND,2023,July,Number of Drug Overdose Deaths,143,North Dakota
+ND,2023,August,Number of Drug Overdose Deaths,140,North Dakota
+ND,2023,September,Number of Drug Overdose Deaths,137,North Dakota
+ND,2023,October,Number of Drug Overdose Deaths,136,North Dakota
+ND,2023,November,Number of Drug Overdose Deaths,135,North Dakota
+ND,2023,December,Number of Drug Overdose Deaths,127,North Dakota
+NE,2023,January,Number of Deaths,18409,Nebraska
+NE,2023,February,Number of Deaths,18230,Nebraska
+NE,2023,March,Number of Deaths,18328,Nebraska
+NE,2023,April,Number of Deaths,18519,Nebraska
+NE,2023,May,Number of Deaths,18543,Nebraska
+NE,2023,June,Number of Deaths,18644,Nebraska
+NE,2023,July,Number of Deaths,18626,Nebraska
+NE,2023,August,Number of Deaths,18716,Nebraska
+NE,2023,September,Number of Deaths,18705,Nebraska
+NE,2023,October,Number of Deaths,18655,Nebraska
+NE,2023,November,Number of Deaths,18656,Nebraska
+NE,2023,December,Number of Deaths,18571,Nebraska
+NE,2023,January,Number of Drug Overdose Deaths,229,Nebraska
+NE,2023,February,Number of Drug Overdose Deaths,224,Nebraska
+NE,2023,March,Number of Drug Overdose Deaths,219,Nebraska
+NE,2023,April,Number of Drug Overdose Deaths,217,Nebraska
+NE,2023,May,Number of Drug Overdose Deaths,209,Nebraska
+NE,2023,June,Number of Drug Overdose Deaths,192,Nebraska
+NE,2023,July,Number of Drug Overdose Deaths,194,Nebraska
+NE,2023,August,Number of Drug Overdose Deaths,193,Nebraska
+NE,2023,September,Number of Drug Overdose Deaths,191,Nebraska
+NE,2023,October,Number of Drug Overdose Deaths,184,Nebraska
+NE,2023,November,Number of Drug Overdose Deaths,174,Nebraska
+NE,2023,December,Number of Drug Overdose Deaths,171,Nebraska
+NH,2023,January,Number of Deaths,14206,New Hampshire
+NH,2023,February,Number of Deaths,14117,New Hampshire
+NH,2023,March,Number of Deaths,14145,New Hampshire
+NH,2023,April,Number of Deaths,14138,New Hampshire
+NH,2023,May,Number of Deaths,14137,New Hampshire
+NH,2023,June,Number of Deaths,14051,New Hampshire
+NH,2023,July,Number of Deaths,14066,New Hampshire
+NH,2023,August,Number of Deaths,14008,New Hampshire
+NH,2023,September,Number of Deaths,14032,New Hampshire
+NH,2023,October,Number of Deaths,14027,New Hampshire
+NH,2023,November,Number of Deaths,13956,New Hampshire
+NH,2023,December,Number of Deaths,13880,New Hampshire
+NH,2023,January,Number of Drug Overdose Deaths,472,New Hampshire
+NH,2023,February,Number of Drug Overdose Deaths,479,New Hampshire
+NH,2023,March,Number of Drug Overdose Deaths,480,New Hampshire
+NH,2023,April,Number of Drug Overdose Deaths,469,New Hampshire
+NH,2023,May,Number of Drug Overdose Deaths,474,New Hampshire
+NH,2023,June,Number of Drug Overdose Deaths,464,New Hampshire
+NH,2023,July,Number of Drug Overdose Deaths,461,New Hampshire
+NH,2023,August,Number of Drug Overdose Deaths,456,New Hampshire
+NH,2023,September,Number of Drug Overdose Deaths,466,New Hampshire
+NH,2023,October,Number of Drug Overdose Deaths,454,New Hampshire
+NH,2023,November,Number of Drug Overdose Deaths,439,New Hampshire
+NH,2023,December,Number of Drug Overdose Deaths,430,New Hampshire
+NJ,2023,January,Number of Deaths,77803,New Jersey
+NJ,2023,February,Number of Deaths,77115,New Jersey
+NJ,2023,March,Number of Deaths,77163,New Jersey
+NJ,2023,April,Number of Deaths,77292,New Jersey
+NJ,2023,May,Number of Deaths,76954,New Jersey
+NJ,2023,June,Number of Deaths,76790,New Jersey
+NJ,2023,July,Number of Deaths,76334,New Jersey
+NJ,2023,August,Number of Deaths,76227,New Jersey
+NJ,2023,September,Number of Deaths,75866,New Jersey
+NJ,2023,October,Number of Deaths,75718,New Jersey
+NJ,2023,November,Number of Deaths,75393,New Jersey
+NJ,2023,December,Number of Deaths,75031,New Jersey
+NJ,2023,January,Number of Drug Overdose Deaths,2871,New Jersey
+NJ,2023,February,Number of Drug Overdose Deaths,2855,New Jersey
+NJ,2023,March,Number of Drug Overdose Deaths,2832,New Jersey
+NJ,2023,April,Number of Drug Overdose Deaths,2839,New Jersey
+NJ,2023,May,Number of Drug Overdose Deaths,2869,New Jersey
+NJ,2023,June,Number of Drug Overdose Deaths,2866,New Jersey
+NJ,2023,July,Number of Drug Overdose Deaths,2873,New Jersey
+NJ,2023,August,Number of Drug Overdose Deaths,2865,New Jersey
+NJ,2023,September,Number of Drug Overdose Deaths,2804,New Jersey
+NJ,2023,October,Number of Drug Overdose Deaths,2754,New Jersey
+NJ,2023,November,Number of Drug Overdose Deaths,2726,New Jersey
+NJ,2023,December,Number of Drug Overdose Deaths,2667,New Jersey
+NM,2023,January,Number of Deaths,22227,New Mexico
+NM,2023,February,Number of Deaths,21798,New Mexico
+NM,2023,March,Number of Deaths,21725,New Mexico
+NM,2023,April,Number of Deaths,21879,New Mexico
+NM,2023,May,Number of Deaths,21741,New Mexico
+NM,2023,June,Number of Deaths,21691,New Mexico
+NM,2023,July,Number of Deaths,21659,New Mexico
+NM,2023,August,Number of Deaths,21646,New Mexico
+NM,2023,September,Number of Deaths,21581,New Mexico
+NM,2023,October,Number of Deaths,21625,New Mexico
+NM,2023,November,Number of Deaths,21596,New Mexico
+NM,2023,December,Number of Deaths,21409,New Mexico
+NM,2023,January,Number of Drug Overdose Deaths,1005,New Mexico
+NM,2023,February,Number of Drug Overdose Deaths,962,New Mexico
+NM,2023,March,Number of Drug Overdose Deaths,960,New Mexico
+NM,2023,April,Number of Drug Overdose Deaths,975,New Mexico
+NM,2023,May,Number of Drug Overdose Deaths,973,New Mexico
+NM,2023,June,Number of Drug Overdose Deaths,990,New Mexico
+NM,2023,July,Number of Drug Overdose Deaths,1008,New Mexico
+NM,2023,August,Number of Drug Overdose Deaths,1029,New Mexico
+NM,2023,September,Number of Drug Overdose Deaths,1014,New Mexico
+NM,2023,October,Number of Drug Overdose Deaths,1010,New Mexico
+NM,2023,November,Number of Drug Overdose Deaths,1000,New Mexico
+NM,2023,December,Number of Drug Overdose Deaths,994,New Mexico
+NV,2023,January,Number of Deaths,31135,Nevada
+NV,2023,February,Number of Deaths,30581,Nevada
+NV,2023,March,Number of Deaths,30558,Nevada
+NV,2023,April,Number of Deaths,30626,Nevada
+NV,2023,May,Number of Deaths,30584,Nevada
+NV,2023,June,Number of Deaths,30432,Nevada
+NV,2023,July,Number of Deaths,30323,Nevada
+NV,2023,August,Number of Deaths,30350,Nevada
+NV,2023,September,Number of Deaths,30278,Nevada
+NV,2023,October,Number of Deaths,30125,Nevada
+NV,2023,November,Number of Deaths,30113,Nevada
+NV,2023,December,Number of Deaths,29886,Nevada
+NV,2023,January,Number of Drug Overdose Deaths,1131,Nevada
+NV,2023,February,Number of Drug Overdose Deaths,1146,Nevada
+NV,2023,March,Number of Drug Overdose Deaths,1212,Nevada
+NV,2023,April,Number of Drug Overdose Deaths,1260,Nevada
+NV,2023,May,Number of Drug Overdose Deaths,1279,Nevada
+NV,2023,June,Number of Drug Overdose Deaths,1270,Nevada
+NV,2023,July,Number of Drug Overdose Deaths,1307,Nevada
+NV,2023,August,Number of Drug Overdose Deaths,1366,Nevada
+NV,2023,September,Number of Drug Overdose Deaths,1356,Nevada
+NV,2023,October,Number of Drug Overdose Deaths,1383,Nevada
+NV,2023,November,Number of Drug Overdose Deaths,1387,Nevada
+NV,2023,December,Number of Drug Overdose Deaths,1400,Nevada
+NY,2023,January,Number of Deaths,109684,New York
+NY,2023,February,Number of Deaths,108900,New York
+NY,2023,March,Number of Deaths,109013,New York
+NY,2023,April,Number of Deaths,108866,New York
+NY,2023,May,Number of Deaths,108423,New York
+NY,2023,June,Number of Deaths,108171,New York
+NY,2023,July,Number of Deaths,107757,New York
+NY,2023,August,Number of Deaths,107518,New York
+NY,2023,September,Number of Deaths,107207,New York
+NY,2023,October,Number of Deaths,107110,New York
+NY,2023,November,Number of Deaths,106438,New York
+NY,2023,December,Number of Deaths,105598,New York
+NY,2023,January,Number of Drug Overdose Deaths,3463,New York
+NY,2023,February,Number of Drug Overdose Deaths,3487,New York
+NY,2023,March,Number of Drug Overdose Deaths,3491,New York
+NY,2023,April,Number of Drug Overdose Deaths,3548,New York
+NY,2023,May,Number of Drug Overdose Deaths,3570,New York
+NY,2023,June,Number of Drug Overdose Deaths,3531,New York
+NY,2023,July,Number of Drug Overdose Deaths,3485,New York
+NY,2023,August,Number of Drug Overdose Deaths,3494,New York
+NY,2023,September,Number of Drug Overdose Deaths,3465,New York
+NY,2023,October,Number of Drug Overdose Deaths,3434,New York
+NY,2023,November,Number of Drug Overdose Deaths,3424,New York
+NY,2023,December,Number of Drug Overdose Deaths,3408,New York
+OH,2023,January,Number of Deaths,132984,Ohio
+OH,2023,February,Number of Deaths,131209,Ohio
+OH,2023,March,Number of Deaths,131365,Ohio
+OH,2023,April,Number of Deaths,131776,Ohio
+OH,2023,May,Number of Deaths,131927,Ohio
+OH,2023,June,Number of Deaths,131740,Ohio
+OH,2023,July,Number of Deaths,131130,Ohio
+OH,2023,August,Number of Deaths,130426,Ohio
+OH,2023,September,Number of Deaths,130262,Ohio
+OH,2023,October,Number of Deaths,130000,Ohio
+OH,2023,November,Number of Deaths,129317,Ohio
+OH,2023,December,Number of Deaths,128057,Ohio
+OH,2023,January,Number of Drug Overdose Deaths,5148,Ohio
+OH,2023,February,Number of Drug Overdose Deaths,5178,Ohio
+OH,2023,March,Number of Drug Overdose Deaths,5144,Ohio
+OH,2023,April,Number of Drug Overdose Deaths,5206,Ohio
+OH,2023,May,Number of Drug Overdose Deaths,5222,Ohio
+OH,2023,June,Number of Drug Overdose Deaths,5215,Ohio
+OH,2023,July,Number of Drug Overdose Deaths,5197,Ohio
+OH,2023,August,Number of Drug Overdose Deaths,5170,Ohio
+OH,2023,September,Number of Drug Overdose Deaths,5113,Ohio
+OH,2023,October,Number of Drug Overdose Deaths,4997,Ohio
+OH,2023,November,Number of Drug Overdose Deaths,4885,Ohio
+OH,2023,December,Number of Drug Overdose Deaths,4745,Ohio
+OK,2023,January,Number of Deaths,45126,Oklahoma
+OK,2023,February,Number of Deaths,44143,Oklahoma
+OK,2023,March,Number of Deaths,43927,Oklahoma
+OK,2023,April,Number of Deaths,43981,Oklahoma
+OK,2023,May,Number of Deaths,44013,Oklahoma
+OK,2023,June,Number of Deaths,43950,Oklahoma
+OK,2023,July,Number of Deaths,43633,Oklahoma
+OK,2023,August,Number of Deaths,43495,Oklahoma
+OK,2023,September,Number of Deaths,43342,Oklahoma
+OK,2023,October,Number of Deaths,43333,Oklahoma
+OK,2023,November,Number of Deaths,43270,Oklahoma
+OK,2023,December,Number of Deaths,43002,Oklahoma
+OK,2023,January,Number of Drug Overdose Deaths,1197,Oklahoma
+OK,2023,February,Number of Drug Overdose Deaths,1214,Oklahoma
+OK,2023,March,Number of Drug Overdose Deaths,1235,Oklahoma
+OK,2023,April,Number of Drug Overdose Deaths,1256,Oklahoma
+OK,2023,May,Number of Drug Overdose Deaths,1294,Oklahoma
+OK,2023,June,Number of Drug Overdose Deaths,1278,Oklahoma
+OK,2023,July,Number of Drug Overdose Deaths,1269,Oklahoma
+OK,2023,August,Number of Drug Overdose Deaths,1271,Oklahoma
+OK,2023,September,Number of Drug Overdose Deaths,1280,Oklahoma
+OK,2023,October,Number of Drug Overdose Deaths,1276,Oklahoma
+OK,2023,November,Number of Drug Overdose Deaths,1280,Oklahoma
+OK,2023,December,Number of Drug Overdose Deaths,1258,Oklahoma
+OR,2023,January,Number of Deaths,44109,Oregon
+OR,2023,February,Number of Deaths,43731,Oregon
+OR,2023,March,Number of Deaths,43814,Oregon
+OR,2023,April,Number of Deaths,43864,Oregon
+OR,2023,May,Number of Deaths,43593,Oregon
+OR,2023,June,Number of Deaths,43543,Oregon
+OR,2023,July,Number of Deaths,43492,Oregon
+OR,2023,August,Number of Deaths,43337,Oregon
+OR,2023,September,Number of Deaths,43408,Oregon
+OR,2023,October,Number of Deaths,43486,Oregon
+OR,2023,November,Number of Deaths,43342,Oregon
+OR,2023,December,Number of Deaths,42674,Oregon
+OR,2023,January,Number of Drug Overdose Deaths,1432,Oregon
+OR,2023,February,Number of Drug Overdose Deaths,1447,Oregon
+OR,2023,March,Number of Drug Overdose Deaths,1498,Oregon
+OR,2023,April,Number of Drug Overdose Deaths,1535,Oregon
+OR,2023,May,Number of Drug Overdose Deaths,1552,Oregon
+OR,2023,June,Number of Drug Overdose Deaths,1617,Oregon
+OR,2023,July,Number of Drug Overdose Deaths,1698,Oregon
+OR,2023,August,Number of Drug Overdose Deaths,1756,Oregon
+OR,2023,September,Number of Drug Overdose Deaths,1809,Oregon
+OR,2023,October,Number of Drug Overdose Deaths,1870,Oregon
+OR,2023,November,Number of Drug Overdose Deaths,1874,Oregon
+OR,2023,December,Number of Drug Overdose Deaths,1851,Oregon
+PA,2023,January,Number of Deaths,143251,Pennsylvania
+PA,2023,February,Number of Deaths,141790,Pennsylvania
+PA,2023,March,Number of Deaths,141856,Pennsylvania
+PA,2023,April,Number of Deaths,141971,Pennsylvania
+PA,2023,May,Number of Deaths,141903,Pennsylvania
+PA,2023,June,Number of Deaths,141603,Pennsylvania
+PA,2023,July,Number of Deaths,141132,Pennsylvania
+PA,2023,August,Number of Deaths,140591,Pennsylvania
+PA,2023,September,Number of Deaths,140210,Pennsylvania
+PA,2023,October,Number of Deaths,139813,Pennsylvania
+PA,2023,November,Number of Deaths,139598,Pennsylvania
+PA,2023,December,Number of Deaths,138601,Pennsylvania
+PA,2023,January,Number of Drug Overdose Deaths,5231,Pennsylvania
+PA,2023,February,Number of Drug Overdose Deaths,5260,Pennsylvania
+PA,2023,March,Number of Drug Overdose Deaths,5223,Pennsylvania
+PA,2023,April,Number of Drug Overdose Deaths,5212,Pennsylvania
+PA,2023,May,Number of Drug Overdose Deaths,5260,Pennsylvania
+PA,2023,June,Number of Drug Overdose Deaths,5210,Pennsylvania
+PA,2023,July,Number of Drug Overdose Deaths,5164,Pennsylvania
+PA,2023,August,Number of Drug Overdose Deaths,5077,Pennsylvania
+PA,2023,September,Number of Drug Overdose Deaths,5032,Pennsylvania
+PA,2023,October,Number of Drug Overdose Deaths,4980,Pennsylvania
+PA,2023,November,Number of Drug Overdose Deaths,4885,Pennsylvania
+PA,2023,December,Number of Drug Overdose Deaths,4746,Pennsylvania
+PR,2023,January,Number of Deaths,34927,Puerto Rico
+PR,2023,February,Number of Deaths,35018,Puerto Rico
+PR,2023,March,Number of Deaths,35192,Puerto Rico
+PR,2023,April,Number of Deaths,35184,Puerto Rico
+PR,2023,May,Number of Deaths,35052,Puerto Rico
+PR,2023,June,Number of Deaths,35194,Puerto Rico
+PR,2023,July,Number of Deaths,35044,Puerto Rico
+PR,2023,August,Number of Deaths,34898,Puerto Rico
+PR,2023,September,Number of Deaths,34862,Puerto Rico
+PR,2023,October,Number of Deaths,34699,Puerto Rico
+PR,2023,November,Number of Deaths,34572,Puerto Rico
+PR,2023,December,Number of Deaths,34290,Puerto Rico
+PR,2023,January,Number of Drug Overdose Deaths,812,Puerto Rico
+PR,2023,February,Number of Drug Overdose Deaths,825,Puerto Rico
+PR,2023,March,Number of Drug Overdose Deaths,824,Puerto Rico
+PR,2023,April,Number of Drug Overdose Deaths,832,Puerto Rico
+PR,2023,May,Number of Drug Overdose Deaths,846,Puerto Rico
+PR,2023,June,Number of Drug Overdose Deaths,852,Puerto Rico
+PR,2023,July,Number of Drug Overdose Deaths,843,Puerto Rico
+PR,2023,August,Number of Drug Overdose Deaths,833,Puerto Rico
+PR,2023,September,Number of Drug Overdose Deaths,836,Puerto Rico
+PR,2023,October,Number of Drug Overdose Deaths,814,Puerto Rico
+PR,2023,November,Number of Drug Overdose Deaths,800,Puerto Rico
+PR,2023,December,Number of Drug Overdose Deaths,769,Puerto Rico
+RI,2023,January,Number of Deaths,10865,Rhode Island
+RI,2023,February,Number of Deaths,10782,Rhode Island
+RI,2023,March,Number of Deaths,10847,Rhode Island
+RI,2023,April,Number of Deaths,10958,Rhode Island
+RI,2023,May,Number of Deaths,10937,Rhode Island
+RI,2023,June,Number of Deaths,10974,Rhode Island
+RI,2023,July,Number of Deaths,10900,Rhode Island
+RI,2023,August,Number of Deaths,10816,Rhode Island
+RI,2023,September,Number of Deaths,10910,Rhode Island
+RI,2023,October,Number of Deaths,10898,Rhode Island
+RI,2023,November,Number of Deaths,10881,Rhode Island
+RI,2023,December,Number of Deaths,10881,Rhode Island
+RI,2023,January,Number of Drug Overdose Deaths,460,Rhode Island
+RI,2023,February,Number of Drug Overdose Deaths,454,Rhode Island
+RI,2023,March,Number of Drug Overdose Deaths,448,Rhode Island
+RI,2023,April,Number of Drug Overdose Deaths,452,Rhode Island
+RI,2023,May,Number of Drug Overdose Deaths,438,Rhode Island
+RI,2023,June,Number of Drug Overdose Deaths,432,Rhode Island
+RI,2023,July,Number of Drug Overdose Deaths,448,Rhode Island
+RI,2023,August,Number of Drug Overdose Deaths,444,Rhode Island
+RI,2023,September,Number of Drug Overdose Deaths,443,Rhode Island
+RI,2023,October,Number of Drug Overdose Deaths,426,Rhode Island
+RI,2023,November,Number of Drug Overdose Deaths,422,Rhode Island
+RI,2023,December,Number of Drug Overdose Deaths,416,Rhode Island
+SC,2023,January,Number of Deaths,58547,South Carolina
+SC,2023,February,Number of Deaths,57547,South Carolina
+SC,2023,March,Number of Deaths,57725,South Carolina
+SC,2023,April,Number of Deaths,57954,South Carolina
+SC,2023,May,Number of Deaths,57947,South Carolina
+SC,2023,June,Number of Deaths,57965,South Carolina
+SC,2023,July,Number of Deaths,57832,South Carolina
+SC,2023,August,Number of Deaths,57659,South Carolina
+SC,2023,September,Number of Deaths,57583,South Carolina
+SC,2023,October,Number of Deaths,57299,South Carolina
+SC,2023,November,Number of Deaths,57122,South Carolina
+SC,2023,December,Number of Deaths,57091,South Carolina
+SC,2023,January,Number of Drug Overdose Deaths,2281,South Carolina
+SC,2023,February,Number of Drug Overdose Deaths,2269,South Carolina
+SC,2023,March,Number of Drug Overdose Deaths,2305,South Carolina
+SC,2023,April,Number of Drug Overdose Deaths,2309,South Carolina
+SC,2023,May,Number of Drug Overdose Deaths,2343,South Carolina
+SC,2023,June,Number of Drug Overdose Deaths,2359,South Carolina
+SC,2023,July,Number of Drug Overdose Deaths,2314,South Carolina
+SC,2023,August,Number of Drug Overdose Deaths,2299,South Carolina
+SC,2023,September,Number of Drug Overdose Deaths,2273,South Carolina
+SC,2023,October,Number of Drug Overdose Deaths,2275,South Carolina
+SC,2023,November,Number of Drug Overdose Deaths,2209,South Carolina
+SC,2023,December,Number of Drug Overdose Deaths,2153,South Carolina
+SD,2023,January,Number of Deaths,8936,South Dakota
+SD,2023,February,Number of Deaths,8760,South Dakota
+SD,2023,March,Number of Deaths,8745,South Dakota
+SD,2023,April,Number of Deaths,8751,South Dakota
+SD,2023,May,Number of Deaths,8777,South Dakota
+SD,2023,June,Number of Deaths,8781,South Dakota
+SD,2023,July,Number of Deaths,8731,South Dakota
+SD,2023,August,Number of Deaths,8761,South Dakota
+SD,2023,September,Number of Deaths,8778,South Dakota
+SD,2023,October,Number of Deaths,8782,South Dakota
+SD,2023,November,Number of Deaths,8804,South Dakota
+SD,2023,December,Number of Deaths,8733,South Dakota
+SD,2023,January,Number of Drug Overdose Deaths,85,South Dakota
+SD,2023,February,Number of Drug Overdose Deaths,87,South Dakota
+SD,2023,March,Number of Drug Overdose Deaths,88,South Dakota
+SD,2023,April,Number of Drug Overdose Deaths,85,South Dakota
+SD,2023,May,Number of Drug Overdose Deaths,88,South Dakota
+SD,2023,June,Number of Drug Overdose Deaths,90,South Dakota
+SD,2023,July,Number of Drug Overdose Deaths,88,South Dakota
+SD,2023,August,Number of Drug Overdose Deaths,83,South Dakota
+SD,2023,September,Number of Drug Overdose Deaths,80,South Dakota
+SD,2023,October,Number of Drug Overdose Deaths,85,South Dakota
+SD,2023,November,Number of Drug Overdose Deaths,83,South Dakota
+SD,2023,December,Number of Drug Overdose Deaths,84,South Dakota
+TN,2023,January,Number of Deaths,86603,Tennessee
+TN,2023,February,Number of Deaths,84834,Tennessee
+TN,2023,March,Number of Deaths,84629,Tennessee
+TN,2023,April,Number of Deaths,84741,Tennessee
+TN,2023,May,Number of Deaths,84825,Tennessee
+TN,2023,June,Number of Deaths,84628,Tennessee
+TN,2023,July,Number of Deaths,84306,Tennessee
+TN,2023,August,Number of Deaths,84046,Tennessee
+TN,2023,September,Number of Deaths,83973,Tennessee
+TN,2023,October,Number of Deaths,83737,Tennessee
+TN,2023,November,Number of Deaths,83358,Tennessee
+TN,2023,December,Number of Deaths,83193,Tennessee
+TN,2023,January,Number of Drug Overdose Deaths,3896,Tennessee
+TN,2023,February,Number of Drug Overdose Deaths,3874,Tennessee
+TN,2023,March,Number of Drug Overdose Deaths,3866,Tennessee
+TN,2023,April,Number of Drug Overdose Deaths,3878,Tennessee
+TN,2023,May,Number of Drug Overdose Deaths,3920,Tennessee
+TN,2023,June,Number of Drug Overdose Deaths,3929,Tennessee
+TN,2023,July,Number of Drug Overdose Deaths,3861,Tennessee
+TN,2023,August,Number of Drug Overdose Deaths,3904,Tennessee
+TN,2023,September,Number of Drug Overdose Deaths,3890,Tennessee
+TN,2023,October,Number of Drug Overdose Deaths,3841,Tennessee
+TN,2023,November,Number of Drug Overdose Deaths,3784,Tennessee
+TN,2023,December,Number of Drug Overdose Deaths,3693,Tennessee
+TX,2023,January,Number of Deaths,239217,Texas
+TX,2023,February,Number of Deaths,235034,Texas
+TX,2023,March,Number of Deaths,234562,Texas
+TX,2023,April,Number of Deaths,235039,Texas
+TX,2023,May,Number of Deaths,235612,Texas
+TX,2023,June,Number of Deaths,235764,Texas
+TX,2023,July,Number of Deaths,234720,Texas
+TX,2023,August,Number of Deaths,234375,Texas
+TX,2023,September,Number of Deaths,234379,Texas
+TX,2023,October,Number of Deaths,234022,Texas
+TX,2023,November,Number of Deaths,233818,Texas
+TX,2023,December,Number of Deaths,232919,Texas
+TX,2023,January,Number of Drug Overdose Deaths,5523,Texas
+TX,2023,February,Number of Drug Overdose Deaths,5517,Texas
+TX,2023,March,Number of Drug Overdose Deaths,5573,Texas
+TX,2023,April,Number of Drug Overdose Deaths,5610,Texas
+TX,2023,May,Number of Drug Overdose Deaths,5643,Texas
+TX,2023,June,Number of Drug Overdose Deaths,5666,Texas
+TX,2023,July,Number of Drug Overdose Deaths,5683,Texas
+TX,2023,August,Number of Drug Overdose Deaths,5812,Texas
+TX,2023,September,Number of Drug Overdose Deaths,5781,Texas
+TX,2023,October,Number of Drug Overdose Deaths,5779,Texas
+TX,2023,November,Number of Drug Overdose Deaths,5806,Texas
+TX,2023,December,Number of Drug Overdose Deaths,5727,Texas
+US,2023,January,Number of Deaths,3208838,United States
+US,2023,February,Number of Deaths,3167207,United States
+US,2023,March,Number of Deaths,3167919,United States
+US,2023,April,Number of Deaths,3173727,United States
+US,2023,May,Number of Deaths,3171533,United States
+US,2023,June,Number of Deaths,3164112,United States
+US,2023,July,Number of Deaths,3150616,United States
+US,2023,August,Number of Deaths,3141669,United States
+US,2023,September,Number of Deaths,3135279,United States
+US,2023,October,Number of Deaths,3128534,United States
+US,2023,November,Number of Deaths,3117980,United States
+US,2023,December,Number of Deaths,3101016,United States
+US,2023,January,Number of Drug Overdose Deaths,109745,United States
+US,2023,February,Number of Drug Overdose Deaths,109714,United States
+US,2023,March,Number of Drug Overdose Deaths,110084,United States
+US,2023,April,Number of Drug Overdose Deaths,110774,United States
+US,2023,May,Number of Drug Overdose Deaths,111422,United States
+US,2023,June,Number of Drug Overdose Deaths,111466,United States
+US,2023,July,Number of Drug Overdose Deaths,111382,United States
+US,2023,August,Number of Drug Overdose Deaths,111451,United States
+US,2023,September,Number of Drug Overdose Deaths,110716,United States
+US,2023,October,Number of Drug Overdose Deaths,109703,United States
+US,2023,November,Number of Drug Overdose Deaths,108529,United States
+US,2023,December,Number of Drug Overdose Deaths,106881,United States
+UT,2023,January,Number of Deaths,22477,Utah
+UT,2023,February,Number of Deaths,22213,Utah
+UT,2023,March,Number of Deaths,22168,Utah
+UT,2023,April,Number of Deaths,22170,Utah
+UT,2023,May,Number of Deaths,22154,Utah
+UT,2023,June,Number of Deaths,21995,Utah
+UT,2023,July,Number of Deaths,21914,Utah
+UT,2023,August,Number of Deaths,21950,Utah
+UT,2023,September,Number of Deaths,21987,Utah
+UT,2023,October,Number of Deaths,22148,Utah
+UT,2023,November,Number of Deaths,22181,Utah
+UT,2023,December,Number of Deaths,22115,Utah
+UT,2023,January,Number of Drug Overdose Deaths,649,Utah
+UT,2023,February,Number of Drug Overdose Deaths,660,Utah
+UT,2023,March,Number of Drug Overdose Deaths,647,Utah
+UT,2023,April,Number of Drug Overdose Deaths,667,Utah
+UT,2023,May,Number of Drug Overdose Deaths,671,Utah
+UT,2023,June,Number of Drug Overdose Deaths,690,Utah
+UT,2023,July,Number of Drug Overdose Deaths,683,Utah
+UT,2023,August,Number of Drug Overdose Deaths,684,Utah
+UT,2023,September,Number of Drug Overdose Deaths,686,Utah
+UT,2023,October,Number of Drug Overdose Deaths,686,Utah
+UT,2023,November,Number of Drug Overdose Deaths,692,Utah
+UT,2023,December,Number of Drug Overdose Deaths,698,Utah
+VA,2023,January,Number of Deaths,80159,Virginia
+VA,2023,February,Number of Deaths,79302,Virginia
+VA,2023,March,Number of Deaths,79235,Virginia
+VA,2023,April,Number of Deaths,79337,Virginia
+VA,2023,May,Number of Deaths,79241,Virginia
+VA,2023,June,Number of Deaths,78980,Virginia
+VA,2023,July,Number of Deaths,78569,Virginia
+VA,2023,August,Number of Deaths,78279,Virginia
+VA,2023,September,Number of Deaths,78007,Virginia
+VA,2023,October,Number of Deaths,77764,Virginia
+VA,2023,November,Number of Deaths,77628,Virginia
+VA,2023,December,Number of Deaths,77511,Virginia
+VA,2023,January,Number of Drug Overdose Deaths,2518,Virginia
+VA,2023,February,Number of Drug Overdose Deaths,2516,Virginia
+VA,2023,March,Number of Drug Overdose Deaths,2529,Virginia
+VA,2023,April,Number of Drug Overdose Deaths,2551,Virginia
+VA,2023,May,Number of Drug Overdose Deaths,2563,Virginia
+VA,2023,June,Number of Drug Overdose Deaths,2597,Virginia
+VA,2023,July,Number of Drug Overdose Deaths,2614,Virginia
+VA,2023,August,Number of Drug Overdose Deaths,2594,Virginia
+VA,2023,September,Number of Drug Overdose Deaths,2562,Virginia
+VA,2023,October,Number of Drug Overdose Deaths,2533,Virginia
+VA,2023,November,Number of Drug Overdose Deaths,2515,Virginia
+VA,2023,December,Number of Drug Overdose Deaths,2452,Virginia
+VT,2023,January,Number of Deaths,6622,Vermont
+VT,2023,February,Number of Deaths,6577,Vermont
+VT,2023,March,Number of Deaths,6591,Vermont
+VT,2023,April,Number of Deaths,6638,Vermont
+VT,2023,May,Number of Deaths,6597,Vermont
+VT,2023,June,Number of Deaths,6520,Vermont
+VT,2023,July,Number of Deaths,6488,Vermont
+VT,2023,August,Number of Deaths,6514,Vermont
+VT,2023,September,Number of Deaths,6546,Vermont
+VT,2023,October,Number of Deaths,6536,Vermont
+VT,2023,November,Number of Deaths,6510,Vermont
+VT,2023,December,Number of Deaths,6465,Vermont
+VT,2023,January,Number of Drug Overdose Deaths,264,Vermont
+VT,2023,February,Number of Drug Overdose Deaths,271,Vermont
+VT,2023,March,Number of Drug Overdose Deaths,270,Vermont
+VT,2023,April,Number of Drug Overdose Deaths,279,Vermont
+VT,2023,May,Number of Drug Overdose Deaths,269,Vermont
+VT,2023,June,Number of Drug Overdose Deaths,268,Vermont
+VT,2023,July,Number of Drug Overdose Deaths,256,Vermont
+VT,2023,August,Number of Drug Overdose Deaths,258,Vermont
+VT,2023,September,Number of Drug Overdose Deaths,257,Vermont
+VT,2023,October,Number of Drug Overdose Deaths,258,Vermont
+VT,2023,November,Number of Drug Overdose Deaths,251,Vermont
+VT,2023,December,Number of Drug Overdose Deaths,246,Vermont
+WA,2023,January,Number of Deaths,68250,Washington
+WA,2023,February,Number of Deaths,67775,Washington
+WA,2023,March,Number of Deaths,68023,Washington
+WA,2023,April,Number of Deaths,68234,Washington
+WA,2023,May,Number of Deaths,68046,Washington
+WA,2023,June,Number of Deaths,67800,Washington
+WA,2023,July,Number of Deaths,67343,Washington
+WA,2023,August,Number of Deaths,67020,Washington
+WA,2023,September,Number of Deaths,66943,Washington
+WA,2023,October,Number of Deaths,67096,Washington
+WA,2023,November,Number of Deaths,66748,Washington
+WA,2023,December,Number of Deaths,65875,Washington
+WA,2023,January,Number of Drug Overdose Deaths,2850,Washington
+WA,2023,February,Number of Drug Overdose Deaths,2893,Washington
+WA,2023,March,Number of Drug Overdose Deaths,3006,Washington
+WA,2023,April,Number of Drug Overdose Deaths,3130,Washington
+WA,2023,May,Number of Drug Overdose Deaths,3221,Washington
+WA,2023,June,Number of Drug Overdose Deaths,3307,Washington
+WA,2023,July,Number of Drug Overdose Deaths,3387,Washington
+WA,2023,August,Number of Drug Overdose Deaths,3414,Washington
+WA,2023,September,Number of Drug Overdose Deaths,3490,Washington
+WA,2023,October,Number of Drug Overdose Deaths,3537,Washington
+WA,2023,November,Number of Drug Overdose Deaths,3547,Washington
+WA,2023,December,Number of Drug Overdose Deaths,3512,Washington
+WI,2023,January,Number of Deaths,58831,Wisconsin
+WI,2023,February,Number of Deaths,58255,Wisconsin
+WI,2023,March,Number of Deaths,58288,Wisconsin
+WI,2023,April,Number of Deaths,58369,Wisconsin
+WI,2023,May,Number of Deaths,58490,Wisconsin
+WI,2023,June,Number of Deaths,58475,Wisconsin
+WI,2023,July,Number of Deaths,58314,Wisconsin
+WI,2023,August,Number of Deaths,58231,Wisconsin
+WI,2023,September,Number of Deaths,58105,Wisconsin
+WI,2023,October,Number of Deaths,57857,Wisconsin
+WI,2023,November,Number of Deaths,57719,Wisconsin
+WI,2023,December,Number of Deaths,57318,Wisconsin
+WI,2023,January,Number of Drug Overdose Deaths,1754,Wisconsin
+WI,2023,February,Number of Drug Overdose Deaths,1725,Wisconsin
+WI,2023,March,Number of Drug Overdose Deaths,1739,Wisconsin
+WI,2023,April,Number of Drug Overdose Deaths,1734,Wisconsin
+WI,2023,May,Number of Drug Overdose Deaths,1736,Wisconsin
+WI,2023,June,Number of Drug Overdose Deaths,1742,Wisconsin
+WI,2023,July,Number of Drug Overdose Deaths,1759,Wisconsin
+WI,2023,August,Number of Drug Overdose Deaths,1754,Wisconsin
+WI,2023,September,Number of Drug Overdose Deaths,1757,Wisconsin
+WI,2023,October,Number of Drug Overdose Deaths,1755,Wisconsin
+WI,2023,November,Number of Drug Overdose Deaths,1763,Wisconsin
+WI,2023,December,Number of Drug Overdose Deaths,1744,Wisconsin
+WV,2023,January,Number of Deaths,26481,West Virginia
+WV,2023,February,Number of Deaths,26009,West Virginia
+WV,2023,March,Number of Deaths,25751,West Virginia
+WV,2023,April,Number of Deaths,25662,West Virginia
+WV,2023,May,Number of Deaths,25594,West Virginia
+WV,2023,June,Number of Deaths,25358,West Virginia
+WV,2023,July,Number of Deaths,25183,West Virginia
+WV,2023,August,Number of Deaths,25038,West Virginia
+WV,2023,September,Number of Deaths,24910,West Virginia
+WV,2023,October,Number of Deaths,24757,West Virginia
+WV,2023,November,Number of Deaths,24521,West Virginia
+WV,2023,December,Number of Deaths,24325,West Virginia
+WV,2023,January,Number of Drug Overdose Deaths,1315,West Virginia
+WV,2023,February,Number of Drug Overdose Deaths,1303,West Virginia
+WV,2023,March,Number of Drug Overdose Deaths,1344,West Virginia
+WV,2023,April,Number of Drug Overdose Deaths,1372,West Virginia
+WV,2023,May,Number of Drug Overdose Deaths,1376,West Virginia
+WV,2023,June,Number of Drug Overdose Deaths,1383,West Virginia
+WV,2023,July,Number of Drug Overdose Deaths,1373,West Virginia
+WV,2023,August,Number of Drug Overdose Deaths,1383,West Virginia
+WV,2023,September,Number of Drug Overdose Deaths,1401,West Virginia
+WV,2023,October,Number of Drug Overdose Deaths,1383,West Virginia
+WV,2023,November,Number of Drug Overdose Deaths,1383,West Virginia
+WV,2023,December,Number of Drug Overdose Deaths,1389,West Virginia
+WY,2023,January,Number of Deaths,5369,Wyoming
+WY,2023,February,Number of Deaths,5292,Wyoming
+WY,2023,March,Number of Deaths,5309,Wyoming
+WY,2023,April,Number of Deaths,5324,Wyoming
+WY,2023,May,Number of Deaths,5311,Wyoming
+WY,2023,June,Number of Deaths,5284,Wyoming
+WY,2023,July,Number of Deaths,5285,Wyoming
+WY,2023,August,Number of Deaths,5268,Wyoming
+WY,2023,September,Number of Deaths,5234,Wyoming
+WY,2023,October,Number of Deaths,5241,Wyoming
+WY,2023,November,Number of Deaths,5205,Wyoming
+WY,2023,December,Number of Deaths,5199,Wyoming
+WY,2023,January,Number of Drug Overdose Deaths,123,Wyoming
+WY,2023,February,Number of Drug Overdose Deaths,123,Wyoming
+WY,2023,March,Number of Drug Overdose Deaths,122,Wyoming
+WY,2023,April,Number of Drug Overdose Deaths,126,Wyoming
+WY,2023,May,Number of Drug Overdose Deaths,126,Wyoming
+WY,2023,June,Number of Drug Overdose Deaths,128,Wyoming
+WY,2023,July,Number of Drug Overdose Deaths,130,Wyoming
+WY,2023,August,Number of Drug Overdose Deaths,129,Wyoming
+WY,2023,September,Number of Drug Overdose Deaths,127,Wyoming
+WY,2023,October,Number of Drug Overdose Deaths,128,Wyoming
+WY,2023,November,Number of Drug Overdose Deaths,130,Wyoming
+WY,2023,December,Number of Drug Overdose Deaths,127,Wyoming
+YC,2023,January,Number of Deaths,57937,New York City
+YC,2023,February,Number of Deaths,57321,New York City
+YC,2023,March,Number of Deaths,57413,New York City
+YC,2023,April,Number of Deaths,57501,New York City
+YC,2023,May,Number of Deaths,57458,New York City
+YC,2023,June,Number of Deaths,57250,New York City
+YC,2023,July,Number of Deaths,56867,New York City
+YC,2023,August,Number of Deaths,56500,New York City
+YC,2023,September,Number of Deaths,56373,New York City
+YC,2023,October,Number of Deaths,56194,New York City
+YC,2023,November,Number of Deaths,55872,New York City
+YC,2023,December,Number of Deaths,55458,New York City
+YC,2023,January,Number of Drug Overdose Deaths,3133,New York City
+YC,2023,February,Number of Drug Overdose Deaths,3145,New York City
+YC,2023,March,Number of Drug Overdose Deaths,3169,New York City
+YC,2023,April,Number of Drug Overdose Deaths,3225,New York City
+YC,2023,May,Number of Drug Overdose Deaths,3208,New York City
+YC,2023,June,Number of Drug Overdose Deaths,3254,New York City
+YC,2023,July,Number of Drug Overdose Deaths,3259,New York City
+YC,2023,August,Number of Drug Overdose Deaths,3269,New York City
+YC,2023,September,Number of Drug Overdose Deaths,3243,New York City
+YC,2023,October,Number of Drug Overdose Deaths,3234,New York City
+YC,2023,November,Number of Drug Overdose Deaths,3151,New York City
+YC,2023,December,Number of Drug Overdose Deaths,3111,New York City
